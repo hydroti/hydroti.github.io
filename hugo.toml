@@ -965,9 +965,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Telegram = "hydrot"
         Email = "li1018235818@gmail.com"
         RSS = true
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 629fcb571ca4856e1de877205907982a8df866d4
