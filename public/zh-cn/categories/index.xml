@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Hydro&#39;s blog</title>
+        <link>http://localhost:1313/hydroti/hydroti.github.io/zh-cn/categories/</link>
+        <description>Categories - 分类 - Hydro&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>li1018235818@gmail.com (hydro-菜菜)</managingEditor>
+            <webMaster>li1018235818@gmail.com (hydro-菜菜)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/hydroti/hydroti.github.io/zh-cn/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
