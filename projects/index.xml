@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>projects show on A room of Hydroti&#39;s own</title>
-    <link>https://hydroti.github.io/projects/</link>
-    <description>Recent content in projects show on A room of Hydroti&#39;s own</description>
+    <title>Projects on A room of Hydroti&#39;s own</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on A room of Hydroti&#39;s own</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>li101823518@gmail.com (菜菜)</managingEditor>
     <webMaster>li101823518@gmail.com (菜菜)</webMaster>
     <copyright>© 2025 菜菜</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hydroti.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
