@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on A room of Hydroti&#39;s own</title>
+    <link>https://hydroti.github.io/topics/</link>
+    <description>Recent content in Topics on A room of Hydroti&#39;s own</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>li101823518@gmail.com (菜菜)</managingEditor>
+    <webMaster>li101823518@gmail.com (菜菜)</webMaster>
+    <copyright>© 2025 菜菜</copyright>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hydroti.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://hydroti.github.io/topics/hugo/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <author>li101823518@gmail.com (菜菜)</author>
+      <guid>https://hydroti.github.io/topics/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tailwind</title>
+      <link>https://hydroti.github.io/topics/tailwind/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <author>li101823518@gmail.com (菜菜)</author>
+      <guid>https://hydroti.github.io/topics/tailwind/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://hydroti.github.io/topics/web/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <author>li101823518@gmail.com (菜菜)</author>
+      <guid>https://hydroti.github.io/topics/web/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
