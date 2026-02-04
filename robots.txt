@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hydroti.github.io/sitemap.xml
+Sitemap: https://hydrot.xyz/sitemap.xml
